@@ -1,0 +1,37 @@
+/* Text styles */
+.xr_s0 {font-family:'Tahoma Regular';font-weight:normal;font-style:normal;font-size:13px;text-decoration:none;color:#000000;background-color:Transparent;letter-spacing:0em;}
+.xr_s1 {font-family:'Tahoma Regular';font-weight:normal;font-style:normal;font-size:21.33px;text-decoration:none;color:#000000;background-color:Transparent;letter-spacing:0em;}
+.xr_s2 {font-family:'Tahoma Regular';font-weight:normal;font-style:normal;font-size:11px;text-decoration:none;color:#000000;background-color:Transparent;letter-spacing:0em;}
+.xr_s3 {font-family:'Tahoma Regular';font-weight:normal;font-style:normal;font-size:10px;text-decoration:none;color:#000000;background-color:Transparent;letter-spacing:0em;}
+.xr_s4 {font-family:'Trebuchet MS Bold';font-weight:bold;font-style:normal;font-size:18px;text-decoration:none;color:#000000;background-color:Transparent;letter-spacing:0em;}
+.xr_s5 {font-family:Arial;font-weight:normal;font-style:normal;font-size:14px;text-decoration:none;color:#00017F;background-color:Transparent;letter-spacing:0em;}
+.xr_s6 {font-family:Arial;font-weight:normal;font-style:normal;font-size:14px;text-decoration:none;color:#000000;background-color:Transparent;letter-spacing:0em;}
+.xr_s7 {font-family:'Tahoma Regular';font-weight:normal;font-style:normal;font-size:14px;text-decoration:none;color:#000000;background-color:Transparent;letter-spacing:0em;}
+.xr_s8 {font-family:'Tahoma Regular';font-weight:normal;font-style:normal;font-size:12px;text-decoration:none;color:#000000;background-color:Transparent;letter-spacing:0em;}
+.xr_s9 {font-family:'Tahoma Bold';font-weight:bold;font-style:normal;font-size:13px;text-decoration:none;color:#000000;background-color:Transparent;letter-spacing:0em;}
+.xr_s10 {font-family:'Tahoma Regular';font-weight:normal;font-style:normal;font-size:13px;text-decoration:underline;color:#000000;background-color:Transparent;letter-spacing:0em;}
+.xr_s11 {font-family:'Tahoma Regular';font-weight:normal;font-style:normal;font-size:13px;text-decoration:none;background-color:Transparent;letter-spacing:0em;}
+.xr_s12 {font-family:'Tahoma Regular';font-weight:normal;font-style:normal;font-size:13px;text-decoration:none;color:#FFFFFF;background-color:Transparent;letter-spacing:0em;}
+.xr_s13 {font-family:'Tahoma Bold';font-weight:bold;font-style:normal;font-size:13px;text-decoration:none;color:#FFFFFF;background-color:Transparent;letter-spacing:0em;}
+.xr_s14 {font-family:'Trebuchet MS Regular';font-weight:normal;font-style:normal;font-size:14px;text-decoration:none;color:#000000;background-color:Transparent;letter-spacing:0em;}
+.xr_s15 {font-family:'Trebuchet MS Bold';font-weight:bold;font-style:normal;font-size:14px;text-decoration:none;color:#000000;background-color:Transparent;letter-spacing:0em;}
+.xr_s16 {font-family:'Trebuchet MS Regular Italic';font-weight:normal;font-style:italic;font-size:14px;text-decoration:none;color:#000000;background-color:Transparent;letter-spacing:0em;}
+.xr_s17 {font-family:'Tahoma Regular';font-weight:normal;font-style:normal;font-size:13px;text-decoration:none;color:#463C3C;background-color:Transparent;letter-spacing:0em;}
+.xr_s18 {font-family:'Tahoma Bold';font-weight:bold;font-style:normal;font-size:13px;text-decoration:none;background-color:Transparent;letter-spacing:0em;}
+.xr_s19 {font-family:'Tahoma Bold';font-weight:bold;font-style:normal;font-size:13px;text-decoration:none;color:#463C3C;background-color:Transparent;letter-spacing:0em;}
+.xr_s20 {font-family:'Trebuchet MS Regular';font-weight:normal;font-style:normal;font-size:14px;text-decoration:none;background-color:Transparent;letter-spacing:0em;}
+.xr_s21 {font-family:'Trebuchet MS Regular';font-weight:normal;font-style:normal;font-size:16px;text-decoration:none;color:#000000;background-color:Transparent;letter-spacing:0em;}
+.xr_s22 {font-family:'Trebuchet MS Bold';font-weight:bold;font-style:normal;font-size:16px;text-decoration:none;color:#000000;background-color:Transparent;letter-spacing:0em;}
+.xr_s23 {font-family:'Calibri Regular';font-weight:normal;font-style:normal;font-size:14px;text-decoration:none;color:#000000;background-color:Transparent;letter-spacing:0em;}
+.xr_s24 {font-family:'Calibri Regular';font-weight:normal;font-style:normal;font-size:14.67px;text-decoration:none;color:#000000;background-color:Transparent;letter-spacing:0em;}
+.xr_s25 {font-size:21.33px;text-decoration:none;background-color:Transparent;letter-spacing:0em;}
+.xr_s26 {font-family:'Calibri Bold';font-weight:bold;font-style:normal;font-size:14.67px;text-decoration:none;color:#000000;background-color:Transparent;letter-spacing:0em;}
+.xr_s27 {font-family:'Calibri Bold Italic';font-weight:bold;font-style:italic;font-size:14.67px;text-decoration:underline;color:#463C3C;background-color:Transparent;letter-spacing:0em;}
+.xr_s28 {font-family:'Calibri Regular';font-weight:normal;font-style:normal;font-size:14.67px;text-decoration:none;color:#463C3C;background-color:Transparent;letter-spacing:0em;}
+.xr_s29 {font-family:'Calibri Regular';font-weight:normal;font-style:normal;font-size:14.67px;text-decoration:underline;color:#463C3C;background-color:Transparent;letter-spacing:0em;}
+.xr_s30 {font-family:'Tahoma Regular';font-weight:normal;font-style:normal;font-size:14px;text-decoration:none;background-color:Transparent;letter-spacing:0em;}
+.xr_s31 {font-family:'Tahoma Bold';font-weight:bold;font-style:normal;font-size:14px;text-decoration:none;color:#000000;background-color:Transparent;letter-spacing:0em;}
+.xr_s32 {font-family:'Tahoma Regular';font-weight:normal;font-style:normal;font-size:21.33px;text-decoration:none;background-color:Transparent;letter-spacing:0em;}
+.xr_s33 {font-family:'Tahoma Bold';font-weight:bold;font-style:normal;font-size:11px;text-decoration:none;color:#000000;background-color:Transparent;letter-spacing:0em;}
+.xr_s34 {font-family:'Tahoma Regular';font-weight:normal;font-style:normal;font-size:12px;text-decoration:none;background-color:Transparent;letter-spacing:0em;}
+.xr_s35 {font-family:'Tahoma Bold';font-weight:bold;font-style:normal;font-size:12px;text-decoration:none;color:#000000;background-color:Transparent;letter-spacing:0em;}
